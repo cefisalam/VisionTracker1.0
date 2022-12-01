@@ -7,7 +7,6 @@
 # WARNING! All changes made in this file will be lost!
 
 # Import Essential Libraries
-from fbs_runtime.application_context import ApplicationContext
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import *
 
